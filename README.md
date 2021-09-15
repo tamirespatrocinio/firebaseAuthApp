@@ -1,11 +1,12 @@
-# Sample Snack app
-
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<div align="center">
+<img alt="tela-login" height="350" src="https://user-images.githubusercontent.com/73259410/133499471-121d0783-ca04-4c09-a7c3-554dbd9f104b.png"> 
+<img alt="tela-cadastro" height="350" src="https://user-images.githubusercontent.com/73259410/133503114-0078bef1-84fb-49c1-8e57-6b16fdc294b7.png"> 
+<video align="center" alt="video da aplicação" src="https://user-images.githubusercontent.com/73259410/133499302-64403bdf-4a0b-4f4a-aaf0-23ca9dbf7de2.mp4"></video>
+<br>  
+<p>
+<img alt="Language Top" src="https://img.shields.io/github/languages/top/tamirespatrocinio/firebaseAuthApp">
+<img alt="Languages Count" src="https://img.shields.io/github/languages/count/tamirespatrocinio/firebaseAuthApp">
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/tamirespatrocinio/firebaseAuthApp">
+<img alt="Repo Size" src="https://img.shields.io/github/repo-size/tamirespatrocinio/firebaseAuthApp">
+</p>
+</div>
